@@ -80,10 +80,10 @@ $(function() {
       box_shadow: '#F18033',
       icon: 'https://www.amap.com/favicon.ico',
     }, {
-      name: '澎湃',
-      link: 'https://www.thepaper.cn/',
-      box_shadow: '#11B063',
-      icon: 'https://www.thepaper.cn/favicon.ico',
+      name: '端传媒',
+      link: 'https://theinitium.com/',
+      box_shadow: '#00A0E9',
+      icon: 'https://d32kak7w9u5ewj.cloudfront.net/static/bundles/0b9cf7fe9c518887768e6c485764cd12.ico',
     }, {
       name: '知乎',
       link: 'https://www.zhihu.com/',
@@ -189,11 +189,6 @@ $(function() {
       link: 'https://www.macapp.so/',
       box_shadow: '#62677b',
       icon: 'https://www.macapp.so/img/favicon.ico',
-    }, {
-      name: '端传媒',
-      link: 'https://theinitium.com/',
-      box_shadow: '#00A0E9',
-      icon: 'https://d32kak7w9u5ewj.cloudfront.net/static/bundles/0b9cf7fe9c518887768e6c485764cd12.ico',
 
 
     }]
